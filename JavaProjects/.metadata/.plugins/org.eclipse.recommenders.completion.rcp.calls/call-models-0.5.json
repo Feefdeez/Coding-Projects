@@ -1,0 +1,13 @@
+{
+  "C:\\Program Files\\Java\\jdk1.8.0_77\\jre\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_77\\jre\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "No class path info available for \u0027C:\\Program Files\\Java\\jdk1.8.0_77\\jre\\lib\\rt.jar\u0027. Skipped."
+  },
+  "C:\\Users\\afifm\\Documents\\JavaProjects\\TIcTacToe\\src": {
+    "location": "C:\\Users\\afifm\\Documents\\JavaProjects\\TIcTacToe\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\afifm\\Documents\\JavaProjects\\TIcTacToe\\src\u0027. Skipped."
+  }
+}

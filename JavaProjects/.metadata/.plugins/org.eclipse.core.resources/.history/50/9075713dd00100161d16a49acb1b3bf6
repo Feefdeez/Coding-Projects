@@ -1,0 +1,30 @@
+import java.util.Scanner;
+import java.util.Arrays;
+
+
+public class TicTacToe {
+
+	public static void main(String[] args) {
+		
+		String[][] board = new String [3][0];
+		for (int r = 0; r<board.length;r++) {
+			for (int c = 0; c <board.length;c++){
+				board[r][c] = " ";
+				System.out.print("[" +board[r][c] + "]");
+		}
+			System.out.println();
+	}
+	
+		Scanner scanner = new Scanner (System.in);
+		System.out.print("Enter your coordinates ");
+		String userInput = scanner.nextLine();
+		System.out.println("Your coordinates are = " + userInput);
+		
+		if (userInput.equals("1")) {
+			
+		}
+	}
+}
+
+
+
